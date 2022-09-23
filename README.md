@@ -10,10 +10,6 @@ On the main page, there is a navigation bar with menus (Todo List, LogOut). On t
 When you click on the LogOut menu in the navbar, it should redirect to the login page. The whole User Interface should be responsive by using Bootstrap or any other Framework.
 
 
-
-
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
 ## Development server
